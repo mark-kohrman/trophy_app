@@ -1,7 +1,7 @@
 {
   id: @trophy.id,
   metal: @trophy.metal,
-  color: @trophy[:color],
+  color: @trophy.color,
   wood_type: @trophy.wood_type,
   price: @trophy.price
 }
