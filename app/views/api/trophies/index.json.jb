@@ -1,0 +1,8 @@
+@trophies.map do |trophy|
+{
+  id: trophy.id,
+  metal: trophy.metal,
+  color: trophy.color,
+  price: trophy.price
+}
+end
